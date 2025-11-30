@@ -6,7 +6,7 @@ executable
 file
 </text><path stroke="#f8f4f9" d="M0 40h300" class="Dynamic" style="stroke-width:.2"/><text x="15" y="55" fill="#f8f4f9" class="Dynamic" font-family="monospace" font-size=".6em">bash ~/colors.sh</text><text x="15" y="70" fill="#f8f4f9" class="Dynamic" font-family="monospace" font-size=".6em">
 normal:
-</text><text x="55" y="70" fill="#051014" class="Dynamic" font-family="monospace" font-size=".6em">
+</text><text x="55" y="70" fill="#4a5a5f" class="Dynamic" font-family="monospace" font-size=".6em">
 black
 </text><text x="85" y="70" fill="#7c3626" class="Dynamic" font-family="monospace" font-size=".6em">
 red
